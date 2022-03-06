@@ -11,4 +11,6 @@ Touch “name.htl”:create a new .html file
 Git clone https://github.com/xxxx --> clones a project from the server to your computer
 Git remote -v :shows server address where it thinks you want to push it to; but you want to push it to your own repo
 Git remote set-url origin “url hier” 
+Git log --stat
+git whatchanged
 

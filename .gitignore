@@ -1,1 +1,4 @@
 #add the name of files or folders that Git should ignore ###
+
+~/useful_scripts/testfile.txt
+~/useful_scripts/testfile2.txt
