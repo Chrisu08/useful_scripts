@@ -1,4 +1,4 @@
-#**Git Commands**
+**Git Commands**
 
 - Git status : current status what has been modified
 - Git add -A :add all changes to the staging area
